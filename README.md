@@ -14,7 +14,7 @@ isolated [Python virtual environment](https://docs.python.org/3/library/venv.htm
 standard library module. This will keep dependant Python packages from interfering with other
 Python projects on your system.
 
-On *Nix:
+On Unix:
 
 ```bash
 # On Python 3.9+, add --upgrade-deps
